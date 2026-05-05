@@ -11,3 +11,4 @@ en la nube. Siento que dominar los comandos no solo te hace ver más profesional
 que te ayuda a organizar mejor tu flujo de trabajo y a entender qué está pasando
 "detrás de cámaras" en tu computadora. En resumen, es una habilidad básica que te
 ahorra tiempo y te prepara para retos más avanzados en el desarrollo de software.
+
