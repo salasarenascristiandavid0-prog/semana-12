@@ -1,0 +1,15 @@
+Modelo de Datos de "Petición en 3 Clics"
+
+Entidad: Causa
+- id: Identificador único autoincremental de la causa (Llave primaria).
+- titulo: Nombre o título descriptivo de la petición ciudadana (Texto).
+- descripcion: Explicación detallada del propósito y justificación de la causa (Texto).
+- fecha: Fecha y hora de la creación del registro (Timestamp).
+Propósito: Almacena la información principal de la causa que se desea promover para que la comunidad la conozca y decida apoyarla.
+
+Entidad: Apoyo
+- id: Identificador único autoincremental de la firma o apoyo (Llave primaria).
+- causa_id: Referencia a la causa que se está apoyando (Llave foránea que conecta con la entidad Causa).
+- nombre: Nombre o iniciales del ciudadano que firma la petición (Texto).
+- fecha: Fecha y hora en la que se registró el apoyo (Timestamp).
+Propósito: Registra cada firma de respaldo individual vinculada directamente a una causa específica, permitiendo contabilizar de manera organizada los apoyos.

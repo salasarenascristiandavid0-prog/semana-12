@@ -1,0 +1,7 @@
+Flujo de la plataforma "Petición en 3 Clics":
+
+1. Un ciudadano o líder comunitario accede a la plataforma y crea una nueva causa social completando un formulario con título y descripción.
+2. La causa es registrada y almacenada de forma segura en la base de datos de la plataforma.
+3. Otros ciudadanos de la comunidad visualizan la causa activa y registran su apoyo de manera rápida mediante un botón de firma digital simple.
+4. El sistema contabiliza y consolida en tiempo real la cantidad de apoyos recibidos por cada causa en la base de datos.
+5. Una vez alcanzada la meta de firmas o cuando el creador lo decida, el sistema genera automáticamente un documento formal en PDF que consolida la petición y el listado de apoyos.

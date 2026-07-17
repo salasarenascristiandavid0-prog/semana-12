@@ -1,0 +1,10 @@
+Automatización del Sistema "Petición en 3 Clics" con Telegram / n8n
+
+- Evento que activa la automatización:
+  Nueva causa registrada por un ciudadano.
+
+- Mensaje que se envía:
+  "📢 ¡Nueva causa creada en la plataforma! 'Título de la Causa'. Súmate a apoyar esta iniciativa comunitaria entrando a la plataforma."
+
+- Información que no debe enviarse por seguridad (Privacidad de datos):
+  No se deben incluir datos personales sensibles del creador ni de los firmantes (como número de documento de identidad/cédula, número de teléfono, correo electrónico o dirección de residencia física).
